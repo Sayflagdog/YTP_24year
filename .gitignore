@@ -1,3 +1,6 @@
 *.log
 config.yaml
 *.tmp
+.tmp
+
+
