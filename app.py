@@ -1,3 +1,5 @@
-mas = [1,2,2,3,4,5,6,7,8]   #  пример массива
+num = int(input())
 
-print(max(mas))
+res = max(int(input()) for _ in range(num))
+
+print(res)
